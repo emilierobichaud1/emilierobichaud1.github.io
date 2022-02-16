@@ -2810,6 +2810,7 @@ input, select, textarea {
 	}
 
 		ul.icons li {
+			display: none;
 			padding: 0 0.75em 0 0;
 		}
 
