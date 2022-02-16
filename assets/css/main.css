@@ -2807,6 +2807,7 @@ input, select, textarea {
 	ul.icons {
 		cursor: default;
 		padding-left: 0;
+		list-style-type: none;
 	}
 
 		ul.icons li {
